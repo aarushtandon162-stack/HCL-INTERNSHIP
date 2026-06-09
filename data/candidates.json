@@ -1,0 +1,121 @@
+[
+  {
+    "id": "cand_01",
+    "fullName": "Alexander Chen",
+    "email": "alexander.chen@example.com",
+    "phone": "+1 (555) 234-5678",
+    "position": "Frontend Engineer",
+    "experience": 4,
+    "skills": ["React", "TypeScript", "Tailwind CSS", "Redux", "Websockets"],
+    "education": "B.S. in Computer Science, University of California, Berkeley",
+    "coverLetter": "Dear Hiring Team,\n\nI am thrilled to submit my application for the Frontend Engineer position. With four years of experience building highly interactive, responsive user interfaces in React, I am confident I can contribute immediately to your product. I specialize in state management, animation, and performance tuning.\n\nThank you for your consideration,\nAlexander Chen",
+    "resumeText": "# ALEXANDER CHEN\nFrontend Engineer | Berkeley, CA | alexander.chen@example.com | (555) 234-5678\n\n## SUMMARY\nHighly motivated React developer with 4 years of professional experience building modern single-page applications. Passionate about custom animations, accessibility, and pixel-perfect responsive layouts.\n\n## EXPERIENCE\n### Senior Frontend Developer at AppVibe (2024 - Present)\n- Led a team of 3 developers rebuilding a real-time analytics dashboard in React & TypeScript.\n- Improved initial page load speed by 35% using lazy-loading and bundle splitting.\n- Styled custom design systems using utility-first CSS frameworks.\n\n### Software Engineer I at WebScale Inc (2022 - 2024)\n- Scaled interactive consumer-facing applications to 100k+ daily active users.\n- Built customized component libraries adhering to WCAG AA compliance.\n\n## EDUCATION\n- B.S. in Computer Science, UC Berkeley (2018 - 2022)",
+    "resumeFileName": "alexander_chen_resume.pdf",
+    "status": "Interviewing",
+    "notes": [
+      {
+        "id": "note_01",
+        "text": "Excellent technical interview. Answered React rendering lifecycle questions perfectly and designed a clean state machine for our coding exercise. Moving to the team fit round.",
+        "author": "Sarah Jenkins",
+        "createdAt": "2026-06-05T14:30:00.000Z"
+      },
+      {
+        "id": "note_02",
+        "text": "Very communicative, polite, and motivated. Highly recommends our culture.",
+        "author": "Sarah Jenkins",
+        "createdAt": "2026-06-04T10:15:30.000Z"
+      }
+    ],
+    "createdAt": "2026-06-03T09:12:00.000Z",
+    "updatedAt": "2026-06-05T14:30:00.000Z"
+  },
+  {
+    "id": "cand_02",
+    "fullName": "Elena Rostova",
+    "email": "elena.rostova@example.com",
+    "phone": "+1 (555) 987-6543",
+    "position": "Product Manager",
+    "experience": 7,
+    "skills": ["Product Strategy", "Agile Roadmap", "SQL", "A/B Testing", "Mixpanel"],
+    "education": "M.B.A., Stanford Graduate School of Business",
+    "coverLetter": "Hiring Team,\n\nI have a strong track record of driving cross-functional collaborations and delivering growth on SaaS products. Over the past seven years, I have launched 4 zero-to-one developer tools and optimized core conversion funnels by over 45%. I would love to bring my expertise to your growing product team.\n\nSincerely,\nElena Rostova",
+    "resumeText": "# ELENA ROSTOVA\nLead Product Manager | San Francisco, CA | elena.rostova@example.com\n\n## SUMMARY\nStrategic and analytical Product Leader with 7+ years of experience across fintech and dev-tools. Strong background in translating complex technical capabilities into intuitive user experiences.\n\n## EXPERIENCE\n### Product Manager at FinTech Hub (2022 - Present)\n- Launched a new peer-to-peer payment gateway that processed $10M in the first 3 months.\n- Reduced user onboarding completion drop-offs by 22% through telemetry-driven UX refactoring.\n\n### Associate Product Manager at CloudEngine (2019 - 2022)\n- Managed backlog and strategy for core infrastructure dashboards.\n- Led agile sprint planning for a team of 12 engineers and 2 UX designers.\n\n## EDUCATION\n- M.B.A., Stanford University\n- B.A. in Economics, New York University",
+    "resumeFileName": "elena_rostova_pm.pdf",
+    "status": "Offer",
+    "notes": [
+      {
+        "id": "note_03",
+        "text": "Splendid interview. Strong product sense, exceptional clarity on roadmapping, and very analytical. We extended an offer yesterday; waiting for signed contract.",
+        "author": "Sarah Jenkins",
+        "createdAt": "2026-06-08T18:00:00.000Z"
+      }
+    ],
+    "createdAt": "2026-06-01T15:40:00.000Z",
+    "updatedAt": "2026-06-08T18:00:00.000Z"
+  },
+  {
+    "id": "cand_03",
+    "fullName": "Marcus Washington",
+    "email": "marcus.w@example.com",
+    "phone": "+1 (555) 456-7890",
+    "position": "Full Stack Developer",
+    "experience": 2,
+    "skills": ["Node.js", "React", "Express", "PostgreSQL", "Tailwind CSS"],
+    "education": "B.S. in Software Engineering, Rochester Institute of Technology",
+    "coverLetter": "Hello Hiring Managers,\n\nI am applying for the Full Stack Developer role. I graduated with a Software Engineering degree and spent two years working in full-stack agile environments. I am equally comfortable designing database schemas in PostgreSQL, writing backend API endpoints in Node, and coding frontends in React.\n\nBest,\nMarcus Washington",
+    "resumeText": "# MARCUS WASHINGTON\nFull Stack Engineer | Rochester, NY | marcus.w@example.com\n\n## SUMMARY\nFull Stack Software Engineer with primary focus on Javascript/TypeScript web stacks. Proficient in web service design, PostgreSQL optimization, and component development.\n\n## EXPERIENCE\n### Full Stack Developer at DevLaunch (2024 - Present)\n- Developed and maintained critical server-side APIs in Node.js/Express.\n- Successfully integrated Stripe payments and transactional automated email services.\n\n## EDUCATION\n- B.S. in Software Engineering, RIT (2020 - 2024)",
+    "resumeFileName": "marcus_washington.pdf",
+    "status": "Applied",
+    "notes": [],
+    "createdAt": "2026-06-09T08:00:00.000Z",
+    "updatedAt": "2026-06-09T08:00:00.000Z"
+  },
+  {
+    "id": "cand_04",
+    "fullName": "Siddharth Nair",
+    "email": "sid.nair@example.com",
+    "phone": "+1 (555) 321-6540",
+    "position": "Data Analyst",
+    "experience": 5,
+    "skills": ["Python", "SQL", "Tableau", "Pandas", "Scikit-Learn"],
+    "education": "M.S. in Business Analytics, University of Texas at Austin",
+    "coverLetter": "Hiring Committee,\n\nMy passion lies in finding stories in numbers. I have five years of experience leveraging data pipeline automation in Python and creating impactful dashboards in Tableau to drive business and executive decisions that saved $1.2M in annual logistics expenses.\n\nRegards,\nSiddharth Nair",
+    "resumeText": "# SIDDHARTH NAIR\nData Analyst | Austin, TX | sid.nair@example.com\n\n## SUMMARY\nStrategic data professional with a Master's degree and 5 years experience creating business intelligence dashboards, complex data aggregations, and forecasts.\n\n## EXPERIENCE\n### Senior Business Analyst at LogiSolve (2022 - Present)\n- Built comprehensive Tableau views measuring global supply chain efficiency, helping executives reduce lead times by 14%.\n- Authored automated scheduled Python scripts migrating files into clean data warehouses.\n\n## EDUCATION\n- M.S. in Business Analytics, UT Austin\n- B.S. in Statistics, Purdue University",
+    "resumeFileName": "sid_nair_resume.pdf",
+    "status": "Screening",
+    "notes": [
+      {
+        "id": "note_04",
+        "text": "Did an initial screening call. Siddharth has impressive SQL knowledge. Speaks very confidently about business conversion impact. Booking deep technical panel next week.",
+        "author": "Sarah Jenkins",
+        "createdAt": "2026-06-09T08:10:00.000Z"
+      }
+    ],
+    "createdAt": "2026-06-08T11:24:00.000Z",
+    "updatedAt": "2026-06-09T08:10:00.000Z"
+  },
+  {
+    "id": "cand_05",
+    "fullName": "Sophia Martinez",
+    "email": "sophia.martinez@example.com",
+    "phone": "+1 (555) 789-1234",
+    "position": "UX Designer",
+    "experience": 8,
+    "skills": ["Figma", "User Research", "Wireframing", "Prototyping", "A11y"],
+    "education": "B.S. in Human-Computer Interaction, Georgia Tech",
+    "coverLetter": "Hello,\n\nI am an empathetic product designer with 8 years of experience creating highly accessible design platforms. I focus on research-driven interface prototyping to build digital products people love. I would be thrilled to bring my passion for UX to your team.\n\nBest,\nSophia",
+    "resumeText": "# SOPHIA MARTINEZ\nLead UX/UI Designer | Atlanta, GA | sophia.martinez@example.com\n\n## SUMMARY\nHighly collaborative designer with 8 years of experience. Expert in Figma component libraries, rapid prototyping, design systems, and conducting intensive qualitative user testing sessions.\n\n## EXPERIENCE\n### Principal Designer at FlowStudio (2021 - Present)\n- Established and scaled unified brand-wide design tokens, reducing developer handoff time by 50%.\n- Directed user-feedback studies on a global platform, improving customer NPS scores by 8 points.\n\n## EDUCATION\n- B.S. in HCI, Georgia Institute of Technology",
+    "resumeFileName": "sophia_martinez_portfolio.pdf",
+    "status": "Rejected",
+    "notes": [
+      {
+        "id": "note_05",
+        "text": "Very senior UX and highly skilled, but candidate is seeking a fully remote role with salary expectations way above our current budget range. Disqualified with friendly rejection response.",
+        "author": "Sarah Jenkins",
+        "createdAt": "2026-06-07T16:00:00.000Z"
+      }
+    ],
+    "createdAt": "2026-06-05T13:00:00.000Z",
+    "updatedAt": "2026-06-07T16:00:00.000Z"
+  }
+]

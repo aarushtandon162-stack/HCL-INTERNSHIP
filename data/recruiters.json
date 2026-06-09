@@ -1,0 +1,9 @@
+[
+  {
+    "id": "rec_01",
+    "email": "recruiter@company.com",
+    "password": "Password123",
+    "fullName": "Sarah Jenkins",
+    "role": "Lead Technical Recruiter"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Recruitment Management System",
+  "description": "A full-stack recruitment management system with candidate application portal and recruiter dashboard containing candidate profile pages, status workflows, notes, and filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
